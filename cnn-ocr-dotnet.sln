@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cnn-ocr-dotnet", "cnn-ocr-dotnet.csproj", "{F268BA7A-42F4-4889-B777-B1658CB884B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F268BA7A-42F4-4889-B777-B1658CB884B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F268BA7A-42F4-4889-B777-B1658CB884B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F268BA7A-42F4-4889-B777-B1658CB884B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F268BA7A-42F4-4889-B777-B1658CB884B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {784D95C0-2045-4F7E-9084-64546E4A5981}
+	EndGlobalSection
+EndGlobal
